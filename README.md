@@ -1,4 +1,4 @@
 # demo
 This is my first git repository
-~Aaditya (IIT Dharwad)
+~Aaditya (IIT Dh)
 
